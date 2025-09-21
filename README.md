@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Enhancing my expertise in data-driven solutions and embedded systems development.<br><br>👯 I’m looking to collaborate on:<br>Projects involving IoT, machine learning, and embedded software, particularly in health-tech sectors.<br><br>🤝 I’m looking for help with:<br>Exploring innovative ways to optimize wind farm performance through data analytics and automation.<br><br>🌱 I’m currently learning:<br>Advanced data science techniques, Python for large-scale projects, and Linux-based embedded systems development.<br><br>💬 Ask me about:<br>IoT-enabled solutions, wearable tech development, and leveraging data analytics for impactful innovations.
+🔭 I’m currently working on:
+Building Linux-based IoT and cloud-connected solutions, with a focus on wearable devices, data pipelines, and automation platforms.
+
+👯 I’m looking to collaborate on:
+Cross-functional projects involving IoT gateways, embedded software, and data-driven applications — especially in health-tech and sustainable technology.
+
+🤝 I’m looking for help with:
+Exploring practical ways to integrate IoT data with machine learning for predictive maintenance, healthcare monitoring, and energy optimization.
+
+🌱 I’m currently learning:
+Advanced cloud deployment (AWS/Azure), containerization with Docker, and applying data science techniques to real-world IoT scenarios.
+
+💬 Ask me about:
+Designing end-to-end IoT solutions (from wearable firmware to cloud dashboards), developing patient-centric health applications, and creating scalable full-stack platforms.
 
 
 ## 🌐 Socials:
